@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "corels"]
+	path = corels
+	url = https://github.com/corels/rcppcorels
+	shallow = true
+	registered = true
